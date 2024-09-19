@@ -11,6 +11,11 @@
 
 ## 非技术类
 
+#### 各种短篇
+
+* [【英翻】第一张圣诞卡 ](./The_First_Christmas_Card)
+* [【英翻】"Ghoti" = "Fish" ](https://mp.weixin.qq.com/s?__biz=MzI3NjE5NDc1NQ==&mid=2654410059&idx=1&sn=475ac1f2bcd3e4cbda2a6384c824342f&chksm=f0ba81e7c7cd08f1b8ffd72adc489f8d25cbd4c9acec454ea0bcda88dca6ce9b7145dcfed047&token=1179866194&lang=zh_CN#rd)
+
 ## 技术类
 
 #### 整本书
