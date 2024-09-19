@@ -7,14 +7,11 @@
 
 * [官网](https://zh-hans.reactjs.org/)
 * [React 官方中文文档](https://react.docschina.org)
+* [我的 React Demo](http://react-demo.waygc.net/)
 
 ## 目录
 
 * [React Native](./React/ReactNative)
-
-## 我的 React Demo
-
-* [React Demo](http://react-demo.waygc.net/)
 
 ## 笔记
 
