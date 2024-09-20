@@ -13,6 +13,8 @@
 
 ## 博客
 
+
+* [一个似乎是 markedjs 的 bug](/挨踢技术/前端/一个似乎是markedjs的bug)
 * [version `CXXABI_1.3.8’ not found](/挨踢技术/nodejs/version_CXXABI_1_3_8_not_found)
 * [JS 的小数计算](/挨踢技术/前端/JavaScript/坑/小数计算)
 * [51JOB神奇的伪word文档](./51JOB神奇的伪word文档)
