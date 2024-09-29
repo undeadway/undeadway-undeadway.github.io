@@ -44,7 +44,7 @@ mhtml 本身就是一个 文本文件，通过把原始 html、图片、css 等�
 
 选择了一个网页：[modell-vue2-frame](http://codes.waygc.net/frame/)，然后把它保存为 mhtml 文件。
 
-![])(./mv2-mhtml-file.png)
+![](./mv2-mhtml-file.png)
 
 从打开的文件内容里可以分析出来以下内容
 
