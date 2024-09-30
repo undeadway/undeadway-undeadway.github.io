@@ -54,4 +54,19 @@
 
 看网上的一些说法，好像配置 nginx 之后就可以，但我目前还没找到解决方案。
 
-所以目前看来，在我彻底解决 react 的路由问题前，我还没发完全放弃 `react-demo.waygc.net` 这个域名了。
+## 最终解决方案
+
+在设置了无数次 nginx 无果之后，想到了一个点，如果我把 react 的路由改成 hash 模式，是不是就可以了呢？  
+看了看原来的代码
+
+```
+import {
+	BrowserRouter as Router,
+	Routes,
+	Route,
+} from 'react-router-dom';
+```
+
+于是把 BrowserRouter 改成 HashRouter 一试，果然就解决了问题～
+
+![](./react-hash-router.png)
