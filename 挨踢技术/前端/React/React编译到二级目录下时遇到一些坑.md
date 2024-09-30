@@ -5,7 +5,7 @@
 事情是这样的，因为个人名下域名太多，所以我准备把 [react-demo.waygc.net](http://react-demo.waygc.net) 这里的东西搬迁到 [tech-demo.waygc.net/react-demo](https://tech-demo.waygc.net/react-demo) 去。
 
 然后说干就干，开始研究怎么把 react 编译到二级目录下。  
-一番操作后，发现并不如网上说的往 `package.json` 里加入 `"homepage" : "/react-demo/"` 这么简单。
+一番操作后，发现并不如网上说的往 `package.json` 里加入 `"homepage" : "/react-demo/"` 就可以了这么简单。
 
 下面是我发现的几个坑，需要注意
 
