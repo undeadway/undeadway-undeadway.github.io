@@ -15,6 +15,7 @@
 
 ## 笔记
 
+* [React编译到二级目录下时遇到一些坑](./React编译到二级目录下时遇到一些坑)
 * [hahoorequest](./hahoorequest)
 * [reselect](./reselect)
 * [no-unknown-property](./no-unknown-property.md)
