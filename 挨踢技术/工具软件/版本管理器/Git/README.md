@@ -12,7 +12,7 @@
 
 ## 笔记
 
-* [Git指令集合.md](./Git指令集合)
+* [Git指令集合](./Git指令集合)
 * [Merge made by the 'ort' strategy.](./merge_made_by_the_ort_strategy.md)
 * [ 解决git报警告 TLS certificate verification has been disabled!](./解决git报警告_TLS_certificate_verification_has_been_disabled)
 * [git记录登录信息](./git记录登录信息)
