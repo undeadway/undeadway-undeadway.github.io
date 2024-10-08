@@ -3,6 +3,14 @@
 
 ## 现象
 
+报如下错误
+
+```
+E: Unable to locate package vim
+```
+
+## 解决方案
+
 把 `/etc/apt/sources.list` 里的内容，替换为
 
 ```
