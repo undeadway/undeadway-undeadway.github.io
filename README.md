@@ -30,7 +30,6 @@
 
 ## 链接
 
-* [我的代码](http://codes.waygc.net)
 * [我的技术Demo](https://tech-demo.waygc.net)
 * [我的文字（维护中）](http://words.waygc.net)
 * [我的足迹](http://trails.waygc.net)
