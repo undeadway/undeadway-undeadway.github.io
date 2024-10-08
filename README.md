@@ -30,9 +30,8 @@
 
 ## 链接
 
-* [主站](http://m.waygc.net)
-* [我的翻译](http://translates.waygc.net)
 * [我的代码](http://codes.waygc.net)
+* [我的技术Demo](https://tech-demo.waygc.net)
 * [我的文字（维护中）](http://words.waygc.net)
 * [我的足迹](http://trails.waygc.net)
 
