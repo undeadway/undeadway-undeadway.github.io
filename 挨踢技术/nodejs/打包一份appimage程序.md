@@ -80,6 +80,6 @@ Name[zh-cn]=MyApp
 
 ![](./pkg-appimage-2.png)
 
-关于 appimageool，点击左下角阅读原文查看。
+关于 appimageool，点[这里](/挨踢技术/Linux/appimage相关)。
 
 这就打包好了程序，然后双击那个打包好的 AppImage 文件就可以了。
