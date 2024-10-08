@@ -29,3 +29,4 @@
 * [开机启动服务](./开机启动服务)
 * [安装netstat](./安装netstat)
 * [iptables命令详解和举例](./iptables命令详解和举例)
+* [tail命令](./tail命令)
