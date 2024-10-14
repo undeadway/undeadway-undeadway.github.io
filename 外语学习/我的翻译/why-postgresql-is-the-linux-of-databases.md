@@ -1,7 +1,9 @@
 [目录](./)
-# PostgreSQL 会像 Linux 改变操作系统那样改变数据库市场
+# 【英翻】为什么说 PostgresSQL 是数据库界的 Linux
 
-## 正文
+## 译文
+
+### PostgreSQL 会像 Linux 改变操作系统那样改变数据库市场
 
 从小事成长为大事！回到 1989 年，我完全不知道在大学里教授一种叫 MINIX 的操作系统（我用软驱把它装进了我的电脑），这个操作系统就是 Linux 的开端。
 
@@ -21,9 +23,21 @@ Linux 也有过相似的经历，PostgresSQL 诞生于大学项目，还有一�
 
 ### PostgreSQL 正以市场需求的高速发展
 
-PostgreSQL 可插拔/可扩展的特点可以很自然的扩展到商业应用，可以满足各种各种各样的数据类型和工作任务。包括地理、时间序列、深度分析、机器学习等等。
+PostgreSQL 可插拔/可扩展（pluggable/extensible）的特点可以很自然的扩展到商业应用，可以满足各种各种各样的数据类型和工作任务。包括地理、时间序列、深度分析、机器学习等等。这些满足企业即想要管理过去的解决方案，也想要发展满足未来商务4.0的动态需求，全部是由社区开发和维护的。
 
-### PostgreSQL 可以成长为风暴
+作为一个发行版，Fujitsu Enterprise Postgres ，还为 Postgres 添加了下面的功能
+
+* Hybrid Transactional Analytical Workloads (HTAP)
+* Data Masking
+* Data Redaction (implementing data governance capabilities) <sup id="a0"><a href="#f0">注1</a></sup>
+
+这些功能来源于客户的需求，希望发行版可以有别于市场中的其他产品，就像 Linxux 发行版可以为他们的操作系统做的那样。
+
+PostgreSQL，就像是 Linux，给数据库市场带来了新的活力，因为它是竞争性的、开放支持的平台，由很多发行渠和维护渠道。没有谁可以拥有决定平台未来方向的权力。
+
+### PostgreSQL 正在成长为完美的风暴
+
+
 
 这意味着改变。
 
@@ -32,8 +46,11 @@ PostgreSQL 可插拔/可扩展的特点可以很自然的扩展到商业应用�
 让时间来告诉我们答案。如果这种势头有作用，那么 PostgreSQL 社区早晚会突破那层玻璃天花板。
 
 ## 注释
-<span id="f0"><a href="#a0">注0</a></span> 这里的原文“freelance programmers”，查看资料发现应该说的是自由职业的程序员。但因为这里前面提到了大厂商，这里应该是想有个对比，所以翻译成了“零散的自由职业程序员”；
+
+* <span id="f0"><a href="#a0">注0</a></span> 这里的原文“freelance programmers”，查看资料发现应该说的是自由职业的程序员。但因为这里前面提到了大厂商，这里应该是想有个对比，所以翻译成了“零散的自由职业程序员”。
 MD，这什么长难句！
+
+* <span id="f0"><a href="#a0">注1</a></span> 这里这些不知道具体含义，保持原文。
 
 ----------
 \

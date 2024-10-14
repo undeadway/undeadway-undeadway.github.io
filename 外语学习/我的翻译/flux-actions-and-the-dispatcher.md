@@ -1,12 +1,12 @@
 [目录](./)
-# Flux：动作（Actions）和分发器（Dispatcher）
+# 【英翻】Flux：动作（Actions）和分发器（Dispatcher）
 
 ## 前言
 因为我自己对 Flux 也在学习中，所以很多东西的翻译可能并不到位，更多是每个单词直接翻译过来，很可能词不达意。翻译自己不熟悉的领域，果然不是什么轻松的活。如果以后有机会，等对 Flux 有所了解了之后，再回来重新校对一遍此文吧。
 
 反正你们都忍我这么久了，也不差这一次是吧。┐(¯v¯)┌
 
-## 正文
+## 译文
 
 Flux <sup id="a0"><a href="#f0">注0</a></sup> 是 Facebook 用于构建 JavaScript程序 的一种软件架构。它的基础是单向数据流（unidirectional data flow）。我们通过 Flux 构建了从小工具到大程序的各种东西。它能处理所有我们交给它的任务。因为我们发现它是构建代码的好办法，所以我们非常激动地将其贡献给了开源社区。Jing Chen 在 [F8 大会]<sup id="a1"><a href="#f1">注1</a></sup> 提出了 Flux，从那之后我们看见了很多关于 Flux 的介绍。我们也同样公开了一个[附带教程](https://facebook.github.io/flux/docs/todo-list.html) 的 [Flux概述（Overview of Flux）](https://facebook.github.io/flux/docs/overview.html) 和一个 [TodoMVC 示例](https://github.com/facebook/flux/tree/master/examples/flux-todomvc/)
 
@@ -42,11 +42,11 @@ dispath() 方法通过一个简单的同步迭代来串联回调，并按顺序�
 
 我们希望新的 Flux 库 可以随着时间的增长功能越来越强大，被别人的代码采用以及其他。然后我们也希望 Flux 会像我们认为的那样对你有所用处。加油！
 
-## 注释
+## 译注
 
-<span id="f0"><a href="#a0">注0</a></span> flux 的意思是流动、流向、通量的意思，因为属于技术用于，所以保持英语原文  
-<span id="f1"><a href="#a1">注1</a></span> 原链接是一个 youtube 视频，已将该视频上传 QQ 视频：[https://v.qq.com/x/page/f3053mm66mc.html](https://v.qq.com/x/page/f3053mm66mc.html)  
-<span id="f2"><a href="#a2">注2</a></span> 这段文中的好几个 they 的指代有些不清不楚，看得我有点糊里糊涂，暂时这么翻译，以后再慢慢改
+* <span id="f0"><a href="#a0">注0</a></span> flux 的意思是流动、流向、通量的意思，因为属于技术用于，所以保持英语原文。
+* <span id="f1"><a href="#a1">注1</a></span> 原链接是一个 youtube 视频，已将该视频上传 QQ 视频：[https://v.qq.com/x/page/f3053mm66mc.html](https://v.qq.com/x/page/f3053mm66mc.html)。
+* <span id="f2"><a href="#a2">注2</a></span> 这段文中的好几个 they 的指代有些不清不楚，看得我有点糊里糊涂，暂时这么翻译，以后再慢慢改。
 
 ## 原文
 
