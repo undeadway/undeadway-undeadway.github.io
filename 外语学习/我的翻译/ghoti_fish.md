@@ -68,10 +68,10 @@ devide devidED /id/
 
 “devide” 并不以 d 结尾，它最后一个字母是 e 。但它却以 /d/ 音结尾。在这里，就以读音为准，而不是拼写。比必须想到单词的读音，而不是单词的拼写。
 
+## 译注
+
 * <span id="f0"><a href="#a0">注1:</a></span> 原文并不是用音标，而是采用“读如”的用法，但个人觉得，对于我个人来说，还是标音标更容易理解，所以先写了音标。这里把原文的读如列出：<br />bough 读如 cow ，cough 读如 off ，rough 读如 puff，though 读如 Jo，through 读如 too；
 * <span id="f0"><a href="#a0">注2:</a></span> 原文读如：<br />bow 读如 cow / go ，lead 读如 feed / fed ，wind 读如 pinned / find
-
-点击左下角阅读原文，阅读原版英文文章。
 
 ## 原文
 
