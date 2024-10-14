@@ -11,18 +11,18 @@
 
 ## 非技术类
 
-#### 各种短篇
+#### 各种文章
 
 * [【英翻】第一张圣诞卡 ](./The_First_Christmas_Card)
-* [【英翻】"Ghoti" = "Fish" ](https://mp.weixin.qq.com/s?__biz=MzI3NjE5NDc1NQ==&mid=2654410059&idx=1&sn=475ac1f2bcd3e4cbda2a6384c824342f&chksm=f0ba81e7c7cd08f1b8ffd72adc489f8d25cbd4c9acec454ea0bcda88dca6ce9b7145dcfed047&token=1179866194&lang=zh_CN#rd)
+* [【英翻】"Ghoti" = "Fish" ](./ghoti_fish)
 
 ## 技术类
 
-#### 整本书
+### 整本书
 
 * [[英翻]开始SQL查询：从小工到专家（第二版）](http://translates.waygc.net/beginning-sql-queries-2nd/)
 
-#### 各种短篇
+### 各种文章
 
 * [[英翻]Flux：动作（Actions）和分发器（Dispatcher）](./flux-actions-and-the-dispatcher.md)
 * [[英翻]Node.js是新的潮流（Node.js is the New Black）](./node-js-is-the-new-black.md)
