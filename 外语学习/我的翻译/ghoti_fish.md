@@ -32,18 +32,9 @@ ti=sh 就像 ti 在 na**TI**on 中的读音那样
 
 很多单词都有着非常一致的拼写，但都因为意义的不同而造成读音的不同。我们把这些词称为“同形异义词”。这里给出一些例子：
 
-
-* bow[baʊ]：船头<sup id="a0"><a href="#f0">注2</a></sup>
-* bow[boʊ]：蝴蝶结
-
-
-* lead[liːd]：领导
-* lead[led]：铅
-
-
-* wind[wɪnd]：风
-* wind[waɪnd]：缠绕
-
+* bow[baʊ]：船头<sup id="a0"><a href="#f0">注2</a></sup><br />bow[boʊ]：蝴蝶结
+* lead[liːd]：领导<br />lead[led]：铅
+* wind[wɪnd]：风<br />wind[waɪnd]：缠绕
 
 拼写不一致，读音一致。  
 很多单词的拼写虽然不一致，但读音却一模一样。这些单词的被称为“同音异形词”。这里给出一些例子：
