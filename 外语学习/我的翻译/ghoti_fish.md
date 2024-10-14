@@ -70,7 +70,7 @@ devide devid**ED** /id/
 
 ## 译注
 
-* <span id="f0"><a href="#a0">注1:</a></span> 原文并不是用音标，而是采用“读如”的用法，但对于我个人来说，还是标音标更容易理解，所以在译文中写了音标。这里把原文的读如举例列出：<br />bough 读如 cow ，cough 读如 off ，rough 读如 puff，though 读如 Jo，through 读如 too；
+* <span id="f0"><a href="#a0">注1:</a></span> 原文并不是用音标，而是采用“读如”的用法，但对于我个人来说，还是标音标更容易理解，所以在译文中写了音标。<br />这里把原文的读如举例列出：bough 读如 cow ，cough 读如 off ，rough 读如 puff，though 读如 Jo，through 读如 too；
 * <span id="f0"><a href="#a0">注2:</a></span> 原文读如：<br />bow 读如 cow / go ，lead 读如 feed / fed ，wind 读如 pinned / find
 
 ## 原文
