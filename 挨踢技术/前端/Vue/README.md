@@ -6,6 +6,7 @@
 
 * [官网](https://vuejs.org)
 * [中文网](https://cn.vuejs.org)
+* [逐行剖析 Vue.js 源码](https://fairyly.github.io/Learn-Vue-Source-Code/)
 
 ## 目录
 
