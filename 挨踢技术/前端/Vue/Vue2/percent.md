@@ -1,7 +1,9 @@
 [目录](./)
 # percent
 
-类似 elementui 的 progress 的一个仿制。
+类似 elementui 的 progress 的一个仿制。  
+
+此通能已集成至 [modell-vue2-frame](https://tech-demo.waygc.net/vue2-frame/#/?percent)
 
 ```
 <template>

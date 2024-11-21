@@ -1,6 +1,14 @@
 [目录](./)
 # 【代码片段】danger-event-ask
 
+本组件是用于在某些具有风险性的场合下，弹出一个确认框。  
+只有当输入正确的随机码之后，才能继续操作。  
+当关闭对话框，或者点击“放弃”时，则认为不执行危险操作。
+
+以助于降低误操作的发生。
+
+此通能已集成至 [modell-vue2-frame](https://tech-demo.waygc.net/vue2-frame/#/?danger-event-confirm)
+
 ```
 <template>
   <div>
