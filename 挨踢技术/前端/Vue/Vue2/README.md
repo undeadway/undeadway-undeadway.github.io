@@ -5,7 +5,7 @@
 
 ## 我的框架
 
-[modell-vue2-frame](http://codes.waygc.net/frame/)
+[modell-vue2-frame](https://tech-demo.waygc.net/vue2-frame/)
 
 ## 目录
 
