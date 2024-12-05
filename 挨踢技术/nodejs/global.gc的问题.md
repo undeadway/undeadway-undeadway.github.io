@@ -13,3 +13,15 @@
 
 但至少 soc 上面却有一堆关于 `global.gc()` 的问题：[https://stackoverflow.com/search?q=global.gc](https://stackoverflow.com/search?q=global.gc)  
 有些糊涂。
+
+查到 `global.gc` 是必须在开启 `--expose-gc` 的时候猜有效。
+
+![](./global_gc_succeed.png)
+
+不过，后续延伸至服务器端，如果用 PM2 要怎么启动 `--expose-gc` ？
+
+```
+pm2 start -i 1 -o ./logs/out.log -e ./logs/err.log ./index.js --name [online]
+```
+
+看来，要继续去研究一下 pm2 的参数了。
